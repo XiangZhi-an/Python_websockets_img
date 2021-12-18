@@ -1,0 +1,6 @@
+nest_asyncio==1.5.1
+numpy==1.19.5
+opencv_python==4.2.0.34
+Pillow==8.4.0
+pytesseract==0.3.8
+websockets==9.1
