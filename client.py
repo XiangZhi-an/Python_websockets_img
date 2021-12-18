@@ -97,7 +97,7 @@ async def send_data_func():
                             server_received = 1
 
     async def connect_to_server():
-        # gd_url = "wss://demo.goddea.cn/wss?id=gd056"
+       
         gd_url = 'ws://192.168.0.113:8765'
         # gd_url = 'ws://videolive.vaiwan.com'
         try:
