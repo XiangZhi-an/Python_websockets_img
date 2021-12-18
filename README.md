@@ -1,4 +1,4 @@
-# Python_websockets_img
+# VideoSurveillanceReal-timePictureTransmission
 基于OpencV和WebSockets的视频监控
 Video surveillance based on OpencV and WebSockets
 
